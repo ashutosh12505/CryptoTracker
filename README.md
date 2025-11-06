@@ -1,6 +1,9 @@
 # 💰 CryptoTracker
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://ashutosh12505-cryptotracker.vercel.app/)
+
 A modern, responsive **cryptocurrency tracking web app** built with **React** and **Vite**, displaying **real-time market data**, **multi-currency conversion**, and **interactive price charts** powered by the **CoinGecko API**.
+
 
 ---
 
