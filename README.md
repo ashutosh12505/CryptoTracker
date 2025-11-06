@@ -2,6 +2,15 @@
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://ashutosh12505-cryptotracker.vercel.app/)
 
+<p align="left">
+  <img src="https://img.shields.io/badge/React-18.3.1-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Badge" />
+  <img src="https://img.shields.io/badge/Vite-5.4.10-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge" />
+  <img src="https://img.shields.io/badge/React%20Router%20DOM-7.3.0-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router DOM Badge" />
+  <img src="https://img.shields.io/badge/Google%20Charts-Data%20Viz-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Charts Badge" />
+  <img src="https://img.shields.io/badge/CoinGecko-API-78B159?style=for-the-badge&logo=coingecko&logoColor=white" alt="CoinGecko API Badge" />
+  <img src="https://img.shields.io/badge/CSS3-Responsive%20UI-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
+</p>
+
 A modern, responsive **cryptocurrency tracking web app** built with **React** and **Vite**, displaying **real-time market data**, **multi-currency conversion**, and **interactive price charts** powered by the **CoinGecko API**.
 
 
