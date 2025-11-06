@@ -24,3 +24,5 @@ dist-ssr
 *.sw?
 .env
 build
+
+INTERVIEW_GUIDE.md
