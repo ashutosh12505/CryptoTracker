@@ -62,7 +62,7 @@ CryptoTracker/
 │ ├── main.jsx # Entry point
 │ └── index.css # Global styles
 │
-├── screenshots/ # Project screenshots (you’ll add these)
+├── screenshots/ # Project screenshots
 ├── index.html
 ├── package.json
 ├── vite.config.js
